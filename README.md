@@ -72,31 +72,20 @@ face_pay/
 
 
 ---
+## 👥 Team Credits
 
-👥 Team Credits
+This project was developed during the **Hack4Bengal 4.0** in-person hackathon.
 
-This project was developed during the Hack4Bengal 4.0 in-person hackathon.
+### 🔗 Team Members and Contributions
 
-🔗 Team Members and Contributions
+- **[Sayan Das](https://www.linkedin.com/in/sayan-das-01247b270)**  
+  _Role:_ Machine Learning & Flask
 
-Sayan Das
-Role: Machine Learning & Flask
-LinkedIn: linkedin.com/in/sayan-das-01247b270
+- **[Rajarshee Sarkar](https://www.linkedin.com/in/sarkarrajarshee)**  
+  _Role:_ Flutter App Development
 
-Rajarshee Sarkar
-Role: Flutter App Development
-LinkedIn: linkedin.com/in/sarkarrajarshee
+- **[Aakash Das](https://www.linkedin.com/in/bkaakash-das)**  
+  _Role:_ Flutter App Development
 
-Aakash Das
-Role: Flutter App Development
-LinkedIn: linkedin.com/in/bkaakash-das
-
-Anjan Das
-Role: Backend (Flask + SQL)
-LinkedIn: linkedin.com/in/anjan-das-22b278236
-
-
-
----
-
-
+- **[Anjan Das](https://www.linkedin.com/in/anjan-das-22b278236)**  
+  _Role:_ Backend (Flask + SQL)
