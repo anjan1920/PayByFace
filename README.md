@@ -69,3 +69,34 @@ face_pay/
 ├── server.py                        # Main Flask backend (CORS-enabled API)
 └── __pycache__/                     # Python bytecode cache
 
+
+
+---
+
+👥 Team Credits
+
+This project was developed during the Hack4Bengal 4.0 in-person hackathon.
+
+🔗 Team Members and Contributions
+
+Sayan Das
+Role: Machine Learning & Flask
+LinkedIn: linkedin.com/in/sayan-das-01247b270
+
+Rajarshee Sarkar
+Role: Flutter App Development
+LinkedIn: linkedin.com/in/sarkarrajarshee
+
+Aakash Das
+Role: Flutter App Development
+LinkedIn: linkedin.com/in/bkaakash-das
+
+Anjan Das
+Role: Backend (Flask + SQL)
+LinkedIn: linkedin.com/in/anjan-das-22b278236
+
+
+
+---
+
+
